@@ -15,6 +15,7 @@
 * GitHub is a **web service** that allows you to sign up and **do Git things on the website**. ( Github basically runs the Git software.) 
 * You can just use Github for your whole life and not worry about Git.
 
+
 ### Repository 
 * Also can be called **"repo"**
 * Basically another word for **"project"**
@@ -24,7 +25,7 @@
 * It is a special kind of file and is basically about what the project is about.
   
 
-## Commit
+### Commit
 * Is the save button.
 * "Change the file and make a commit" changing the file and saving it
 * You could add descriptions to each commit.
