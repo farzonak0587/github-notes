@@ -30,4 +30,4 @@
 * "Change the file and make a commit" changing the file and saving it
 * You could add descriptions to each commit.
 * The commits will be saved to the history.
-*COMMIT HASH is a unique identifier for a particular commit.
+* COMMIT HASH is a unique identifier for a particular commit.
